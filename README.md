@@ -4,7 +4,7 @@
 
 ## Features
 - Criação de usuários
-- Consulta de informacões do usuário
+- Consulta de informações do usuário
 - Autenticação e proteção de rotas
 - Consulta de CEP
 
